@@ -10,6 +10,11 @@
 
 *Task 4*
 
+How a parser is generated using yacc and lex files
+
+![task4](https://github.com/lynne-20/group8/assets/147532078/aee318ec-5e98-4501-b050-8e7968f65bf6)
+
+
 
 <img width="464" alt="output3" src="https://github.com/lynne-20/group8/assets/147532078/29652b19-15d1-4b6d-a33d-86c3f5bcf091">
 
