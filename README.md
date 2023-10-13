@@ -1,14 +1,15 @@
 # group8
-*Outputs*
 
-*Task 3*
+**TASK 3**
+
+*Output*
 
 <img width="194" alt="output" src="https://github.com/lynne-20/group8/assets/147532078/1fb6d9ce-8579-49e9-ac00-b9a695ffbedc">
 
 <img width="200" alt="output2" src="https://github.com/lynne-20/group8/assets/147532078/5b7a59bf-290a-4393-a768-d3c64581bb88">
 
 
-*Task 4*
+**TASK 4**
 
 *PART A*
 
@@ -33,7 +34,7 @@ In the output:
 - *./task4* is used to compile the program
 
 
-*Part b*
+*PART B*
 
 *Output*
 
